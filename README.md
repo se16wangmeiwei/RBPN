@@ -8,7 +8,7 @@ cuda:cu101
 我加载的是Vid4/foliage数据进行的预测。我也尝试了自己的图片输入进去，进行预测这也是可以的。
 
 这是最后的效果
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/31944875/112632755-81808980-8e73-11eb-9244-27a95938d5cf.png)
 
 
 *上传到github上，主要是为了给自己备份，可读性不是很强。
